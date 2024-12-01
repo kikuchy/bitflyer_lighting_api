@@ -1,3 +1,4 @@
+import 'package:bitflyer_lighting_api/src/entities.dart';
 import 'package:bitflyer_lighting_api/src/hidden_api_client.dart';
 import 'package:flutter_test/flutter_test.dart';
 
